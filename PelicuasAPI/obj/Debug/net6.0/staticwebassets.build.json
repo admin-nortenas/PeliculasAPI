@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "OacX5mvu44LCUcA4uzJqTE/j/5YmG8ZBP52fDDNSfPc=",
+  "Source": "PelicuasAPI",
+  "BasePath": "_content/PelicuasAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
