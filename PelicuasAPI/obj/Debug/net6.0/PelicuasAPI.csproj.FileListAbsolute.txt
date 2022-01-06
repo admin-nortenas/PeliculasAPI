@@ -53,3 +53,7 @@ C:\Users\MariaAngelicaZermeño\source\repos\PelicuasAPI\PelicuasAPI\obj\Debug\ne
 C:\Users\MariaAngelicaZermeño\source\repos\PelicuasAPI\PelicuasAPI\obj\Debug\net6.0\ref\PelicuasAPI.dll
 C:\Users\MariaAngelicaZermeño\source\repos\PelicuasAPI\PelicuasAPI\obj\Debug\net6.0\PelicuasAPI.pdb
 C:\Users\MariaAngelicaZermeño\source\repos\PelicuasAPI\PelicuasAPI\obj\Debug\net6.0\PelicuasAPI.genruntimeconfig.cache
+C:\Users\MariaAngelicaZermeño\source\repos\PelicuasAPI\PelicuasAPI\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\MariaAngelicaZermeño\source\repos\PelicuasAPI\PelicuasAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\MariaAngelicaZermeño\source\repos\PelicuasAPI\PelicuasAPI\obj\Debug\net6.0\PelicuasAPI.Properties.Resources.resources
+C:\Users\MariaAngelicaZermeño\source\repos\PelicuasAPI\PelicuasAPI\obj\Debug\net6.0\PelicuasAPI.csproj.GenerateResource.cache
